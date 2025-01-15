@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1736920399,
+	"version": 1736929782,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -13,6 +13,12 @@
 		"images/deadmemeschest-sheet0.png",
 		"images/particles.png",
 		"images/group-sheet0.png",
+		"images/platform-sheet0.png",
+		"images/hands_0002_-sheet0.png",
+		"images/hands_0003_-sheet0.png",
+		"images/hands_0000_-sheet0.png",
+		"images/hands_0001_-sheet0.png",
+		"images/blackdot0ff1f-sheet0.png",
 		"media/tap.m4a",
 		"media/tap.ogg",
 		"icon-16.png",
